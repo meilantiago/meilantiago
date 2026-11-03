@@ -30,9 +30,9 @@ My work bridges first-principles physical theory with production-grade engineeri
 
 | Project | Core Domain & Physics | Stack |
 |---|---|---|
-| [**drilling-optimization-engine**](https://github.com/meilantiago/drilling-optimization-engine) | Real-time drilling telemetry, Mechanical Specific Energy (Teale/Dupriest MSE), torsional stick-slip FFT dynamics, and automated Founder Point optimization. | `Python` `Lasio` `SciPy` `NumPy` `Streamlit` `Pytest` |
-| [**geomech-fracability-engine**](https://github.com/meilantiago/geomech-fracability-engine) | 1D Mechanical Earth Model (1D MEM), Biot poroelasticity, in-situ horizontal stress tensor ($\sigma_{h,min}$, $S_{Hmax}$), Rickman brittleness, and stress-shadow aware perforation cluster design. | `Python` `Lasio` `Poroelasticity` `Matplotlib` `Streamlit` |
-| [**vaca-muerta-dca**](https://github.com/meilantiago/vaca-muerta-dca) | Production forecasting & financial valuation on 2,300+ Vaca Muerta shale wells. Modified Arps, Stretched Exponential, WLS regression, hybrid Random Forest residuals, and 10-year EUR / NPV economics. | `Python` `Pandas` `PyArrow` `Scikit-Learn` `Streamlit` |
+| [**drilling-optimization-engine**](https://github.com/meilantiago/drilling-optimization-engine) | Real-time drilling telemetry, Mechanical Specific Energy (Teale/Dupriest MSE), torsional stick-slip FFT dynamics, and automated Founder Point optimization. | `Python` `Lasio` `SciPy` `NumPy` `Pytest` |
+| [**geomech-fracability-engine**](https://github.com/meilantiago/geomech-fracability-engine) | 1D Mechanical Earth Model (1D MEM), Biot poroelasticity, in-situ horizontal stress tensor ($\sigma_{h,min}$, $S_{Hmax}$), Rickman brittleness, and stress-shadow aware perforation cluster design. | `Python` `Lasio` `Poroelasticity` `Matplotlib` |
+| [**vaca-muerta-dca**](https://github.com/meilantiago/vaca-muerta-dca) | Production forecasting & financial valuation on 2,300+ Vaca Muerta shale wells. Modified Arps, Stretched Exponential, WLS regression, hybrid Random Forest residuals, and 10-year EUR / NPV economics. | `Python` `Pandas` `PyArrow` `Scikit-Learn` |
 
 #### ⚙️ Embedded Control & Instrumentation
 
